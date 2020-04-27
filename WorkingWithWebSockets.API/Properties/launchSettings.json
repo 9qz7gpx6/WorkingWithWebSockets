@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WorkingWithWebSockets.API": {
+      "commandName": "Project",
+      "launchUrl": "index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
